@@ -9,6 +9,7 @@ int main()
    //  cout<<sizeof(marks) / sizeof(int)<<endl;
 
    //int arr[5];
+   // dynamically array created 
    int n; 
    cout<<"Enter lenght of array ";
    cin>>n;
